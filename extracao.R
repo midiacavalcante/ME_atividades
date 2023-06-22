@@ -1,4 +1,4 @@
-ls() # lista todos os objetos no R: "colunas_iguais", "colunas_iguais_2019", "itm", "sinistrosRecife2019Raw", "sinistrosRecife2020Raw", "sinistrosRecife2021Raw", "sinistrosRecifeRaw"
+ls() # lista todos os objetos no R: "naZero", "colunas_iguais", "colunas_iguais_2019", "itm", "sinistrosRecife2019Raw", "sinistrosRecife2020Raw", "sinistrosRecife2021Raw", "sinistrosRecifeRaw"
 
 # vamos ver quanto cada objeto está ocupando
 
